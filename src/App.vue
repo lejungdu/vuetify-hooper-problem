@@ -17,14 +17,8 @@
 import SlideShow from './components/SlideShow';
 
 export default {
-  name: 'App',
-
-  components: {
-    SlideShow,
+  components: { 
+    SlideShow
   },
-
-  data: () => ({
-    //
-  }),
 };
 </script>
