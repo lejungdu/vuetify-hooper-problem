@@ -1,24 +1,13 @@
 # slide-show
 
-## Project setup
+## Git clone
 ```
-npm install
+git clone https://github.com/lejungdu/vuetify-hooper-problem.git
 ```
 
-### Compiles and hot-reloads for development
+## NPM install and serve
 ```
+npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
